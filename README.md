@@ -62,7 +62,7 @@ This helps the user focus on the areas where they need more practice.
 
 ### Pic 2 — Practice Before Checking a Sentence
 
-![Practice Before Checking](screenshots/pic2.png)
+![Practice Before Checking](englishchatbot/pic2.png)
 
 ### Pic 3 — Grammar Correction Output
 
