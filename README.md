@@ -54,27 +54,11 @@ One of the main features of the project is that it remembers the user's mistake 
 
 This helps the user focus on the areas where they need more practice.
 
-## 🖥️ Project Screenshots
-
-### Pic 1 — Grammar Checker
-
-![Grammar Checker](screenshots/pic1.png)
-
-### Pic 2 — Practice Before Checking a Sentence
-
-![Practice Before Checking](englishchatbot/pic2.png)
-
-### Pic 3 — Grammar Correction Output
-
-![Grammar Correction Output](screenshots/pic3.png)
-
-### Pic 4 — Personalized Practice
-
-![Personalized Practice](screenshots/pic4.png)
-
-### Pic 5 — My Grammar Report
-
-![My Grammar Report](screenshots/pic5.png)
+![Grammar Checker](pic1.png)
+![Practice Before Checking](pic2.png)
+![Grammar Correction Output](pic3.png)
+![Personalized Practice](pic4.png)
+![Grammar Report](pic5.png)
 
 ## 🛠️ Technologies Used
 
